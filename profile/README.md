@@ -1,4 +1,9 @@
 ## Hi there 👋
+Welcome to our organization
+
+Interesting projects:
+- [Accounting System]()
+- [School Information System]()
 
 <!--
 
