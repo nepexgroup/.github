@@ -1,9 +1,14 @@
 ## Hi there 👋
 Welcome to our organization
 
-Interesting projects:
+#### Interesting projects:
 - [Accounting System]()
 - [School Information System]()
+
+#### Social
+[Youtube](https://www.youtube.com/@nepexgroup) -
+[Facebook](https://www.facebook.com/nepexgroup/) -
+[Linkedin](https://www.linkedin.com/company/nepexgroup)
 
 <!--
 
