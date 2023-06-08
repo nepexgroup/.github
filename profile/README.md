@@ -2,7 +2,7 @@
 Welcome to our organization
 
 #### Interesting projects
-- [Accounting System](https://github.com/nepexgroup/akaunt-doc)
+- [Accounting System](https://nepexgroup.github.io/akaunt-doc/)
 - [School Information System](https://github.com/nepexgroup/dsis-doc)
 
 #### Social
